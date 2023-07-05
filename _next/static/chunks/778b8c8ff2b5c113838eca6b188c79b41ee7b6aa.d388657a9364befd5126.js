@@ -15,7 +15,7 @@
       var r = n("nKUr"),
         i = n("hLHZ"),
         o = {
-          metaDesc: "William Lin: ".concat(
+          metaDesc: "Vishal Gautam: ".concat(
             21,
             "-year-old studying at MIT who loves programming and startups. Experienced Competitive Programmer who won contests such as Google Kickstart and IOI."
           ),
@@ -31,11 +31,11 @@
               "I have been programming since I was 8 years old and I absolutely love it. I also have a lot of experience in Competitive Programming. I am now interested in startups and it will very likely be my future career!",
             ],
           }),
-          copyright: "\xa9 2020 William Lin. All rights reserved.",
+          copyright: "\xa9 2020 Vishal Gautam. All rights reserved.",
         },
         a = { metaDesc: "My blog on all sorts of random things" },
         s = {
-          metaDesc: "About William Lin: ".concat(
+          metaDesc: "About Vishal Gautam: ".concat(
             21,
             "-year-old studying at MIT who loves programming and startups. Experienced Competitive Programmer who won contests such as Google Kickstart and IOI."
           ),
